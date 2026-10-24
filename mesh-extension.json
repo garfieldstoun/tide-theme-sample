@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "id": "tide-fixture",
-  "name": "Tide (1.0.0)",
-  "version": "1.0.0",
+  "name": "Tide (2.0.0)",
+  "version": "2.0.0",
   "kind": "theme",
   "runtime": "builtin",
   "mesh_api": ">=1 <2",
   "publisher": "example",
-  "description": "A small sample theme, release 1.0.0.",
+  "description": "A small sample theme, release 2.0.0.",
   "category": "appearance",
   "license": "Apache-2.0",
   "levels": {
@@ -24,21 +24,21 @@
     ],
     "tokens": {
       "light": {
-        "primary": "174 70% 32%",
-        "accent": "174 70% 32%",
+        "primary": "340 75% 45%",
+        "accent": "340 75% 45%",
         "primary-foreground": "0 0% 100%",
         "radius": "0.5rem"
       },
       "dark": {
-        "primary": "174 70% 32%",
-        "accent": "174 70% 32%",
+        "primary": "340 75% 45%",
+        "accent": "340 75% 45%",
         "primary-foreground": "0 0% 100%",
         "radius": "0.5rem"
       }
     },
     "css": {
       "path": "theme.css",
-      "sha256": "11bf712ec682b01d6adc5f2124d325ee6bad314a49d1897abce5c440bfac7abd"
+      "sha256": "c29da6e8e781cbc9ef299789ab5f859b39849e40786436acaaf3650fcb2b7f00"
     }
   }
 }
