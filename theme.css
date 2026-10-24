@@ -1,0 +1,7 @@
+/* Tide theme 1.0.0 */
+.tide-card {
+  border-radius: var(--radius);
+  border: 1px solid hsl(var(--border));
+  background: hsl(var(--card));
+}
+.tide-card-caption::before { content: "Calm waters"; }
